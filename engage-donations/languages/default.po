@@ -1,0 +1,910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Admin Notification\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-29 17:16+0100\n"
+"PO-Revision-Date: 2012-12-29 17:16+0100\n"
+"Last-Translator: remi\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../easy-wordpress-donation.php:90
+#: ../easy-wordpress-donation.php:135
+#, fuzzy
+msgid "Donation Settings"
+msgstr "Easy Admin Notification Settings"
+
+#: ../easy-wordpress-donation.php:91
+msgid "Donations"
+msgstr ""
+
+#: ../easy-wordpress-donation.php:99
+#: ../easy-wordpress-donation.php:100
+#, fuzzy
+msgid "Export to CSV"
+msgstr "Save Options"
+
+#: ../easy-wordpress-donation.php:143
+msgid "Options saved"
+msgstr "Options saved"
+
+#: ../easy-wordpress-donation.php:156
+msgid "Save Options"
+msgstr "Save Options"
+
+#: ../easy-wordpress-donation.php:177
+#, fuzzy
+msgid "Export Donations to CSV"
+msgstr "Save Options"
+
+#: ../easy-wordpress-donation.php:180
+msgid "You can download the donation list by clicking the button below. It will create a .CSV file with all informations."
+msgstr ""
+
+#: ../easy-wordpress-donation.php:185
+msgid "Click to export"
+msgstr ""
+
+#: ../includes/help.php:15
+#: ../includes/help.php:19
+#, fuzzy
+msgid "Settings"
+msgstr "Save Options"
+
+#: ../includes/help.php:16
+#: ../includes/help.php:25
+msgid "Shortcodes"
+msgstr ""
+
+#: ../includes/help.php:20
+msgid "To work properly the plugin needs to be configured. Please go to the settings page and fill in the form."
+msgstr ""
+
+#: ../includes/help.php:23
+#: ../includes/help.php:40
+msgid "top"
+msgstr ""
+
+#: ../includes/help.php:27
+msgid "To display the donation form use this shortcode. You can place it in any page or post."
+msgstr ""
+
+#: ../includes/help.php:29
+msgid "To display the donations list use this shortcode. You can place it in any page or post."
+msgstr ""
+
+#: ../includes/help.php:31
+msgid "To display the donation targeted amount, use this shortcode."
+msgstr ""
+
+#: ../includes/help.php:31
+#: ../includes/help.php:33
+msgid "The format attribute is optional, do not use it to display a numeric value. Use it to display the money formatted value."
+msgstr ""
+
+#: ../includes/help.php:33
+msgid "To display already collected funds, use this shortcode."
+msgstr ""
+
+#: ../includes/help.php:35
+msgid "To display the collected funds / target progress bar, use this shortcode."
+msgstr ""
+
+#: ../includes/help.php:35
+msgid "Configure color, animation and stripes under Settings > Donation form tab."
+msgstr ""
+
+#: ../includes/help.php:37
+msgid "You do not have to set anything else!"
+msgstr ""
+
+#: ../includes/options.php:15
+msgid "General"
+msgstr ""
+
+#: ../includes/options.php:19
+msgid "Donation Form"
+msgstr ""
+
+#: ../includes/options.php:23
+msgid "Donations List"
+msgstr ""
+
+#: ../includes/options.php:27
+msgid "Paypal"
+msgstr ""
+
+#: ../includes/options.php:31
+msgid "Emails"
+msgstr ""
+
+#: ../includes/options.php:49
+msgid "Please configure the main options below"
+msgstr ""
+
+#: ../includes/options.php:55
+msgid "Donation slug"
+msgstr ""
+
+#: ../includes/options.php:56
+msgid "It's the slug used in urls donations, ex http://mysite.com/donation/donation_name"
+msgstr ""
+
+#: ../includes/options.php:61
+#, fuzzy
+msgid "Enable Donations Target"
+msgstr "Enable notification ?"
+
+#: ../includes/options.php:62
+msgid "Check this if you want to enable a donations amount target you want to reach"
+msgstr ""
+
+#: ../includes/options.php:67
+msgid "Donations Target"
+msgstr ""
+
+#: ../includes/options.php:68
+msgid "Please enter target amount to reach"
+msgstr ""
+
+#: ../includes/options.php:73
+msgid "Donations Total Amount Display"
+msgstr ""
+
+#: ../includes/options.php:74
+#, fuzzy
+msgid "Please indicate how you want to display the total donations amount"
+msgstr "Choose where you want to display the notification."
+
+#: ../includes/options.php:79
+msgid "In value"
+msgstr ""
+
+#: ../includes/options.php:83
+msgid "In percent"
+msgstr ""
+
+#: ../includes/options.php:101
+msgid "Please configure the donation form options below"
+msgstr ""
+
+#: ../includes/options.php:107
+msgid "Amounts display"
+msgstr ""
+
+#: ../includes/options.php:108
+msgid "Choose to display predefined amounts list, custom amount field or both"
+msgstr ""
+
+#: ../includes/options.php:113
+msgid "Predefined amounts list"
+msgstr ""
+
+#: ../includes/options.php:117
+msgid "Custom Amount Field"
+msgstr ""
+
+#: ../includes/options.php:121
+msgid "Both"
+msgstr ""
+
+#: ../includes/options.php:128
+msgid "Available Donation Amounts"
+msgstr ""
+
+#: ../includes/options.php:129
+msgid "Give a list of amounts that the potential donor can select (ex: 50). Disabled if Enable Custom Donation Amount is checked."
+msgstr ""
+
+#: ../includes/options.php:134
+msgid "Send donation button text"
+msgstr ""
+
+#: ../includes/options.php:135
+msgid "Enter submit donation button text"
+msgstr ""
+
+#: ../includes/options.php:140
+#, fuzzy
+msgid "Confirmation Message"
+msgstr "Error message ?"
+
+#: ../includes/options.php:141
+msgid "This is the message donors will see before donation confirmation"
+msgstr ""
+
+#: ../includes/options.php:146
+msgid "Progress Bar Color"
+msgstr ""
+
+#: ../includes/options.php:147
+msgid "Please choose the progress bar color"
+msgstr ""
+
+#: ../includes/options.php:152
+msgid "Enable progress bar stripes"
+msgstr ""
+
+#: ../includes/options.php:153
+msgid "Choose to enable or disable stripes"
+msgstr ""
+
+#: ../includes/options.php:158
+msgid "Enable stripes animation"
+msgstr ""
+
+#: ../includes/options.php:159
+msgid "Choose to enable or disable stripes animation"
+msgstr ""
+
+#: ../includes/options.php:176
+msgid "Please configure the donations list options below"
+msgstr ""
+
+#: ../includes/options.php:182
+msgid "Enable Donor Picture"
+msgstr ""
+
+#: ../includes/options.php:183
+msgid "Check if you want to enable donor picture (only uploaded from admin)"
+msgstr ""
+
+#: ../includes/options.php:188
+msgid "Display Donation Percentage of Target"
+msgstr ""
+
+#: ../includes/options.php:189
+msgid "Check to display the donation part of total target"
+msgstr ""
+
+#: ../includes/options.php:206
+msgid "Please configure the PayPal options below"
+msgstr ""
+
+#: ../includes/options.php:211
+msgid "Logo"
+msgstr ""
+
+#: ../includes/options.php:212
+msgid "Choose a logo to be displayed on PayPal page"
+msgstr ""
+
+#: ../includes/options.php:217
+msgid "PayPal Account"
+msgstr ""
+
+#: ../includes/options.php:218
+msgid "Please enter your PayPal account"
+msgstr ""
+
+#: ../includes/options.php:223
+msgid "Enable PayPal Sandbox"
+msgstr ""
+
+#: ../includes/options.php:224
+msgid "Check to activate PayPal Sandbox (test mode only)"
+msgstr ""
+
+#: ../includes/options.php:229
+msgid "Enable PayPal IPN Notifier"
+msgstr ""
+
+#: ../includes/options.php:230
+msgid "Check to receive IPN data by email (test mode)"
+msgstr ""
+
+#: ../includes/options.php:235
+msgid "PayPal Return URL"
+msgstr ""
+
+#: ../includes/options.php:236
+msgid "Choose the page where donors are redirected after payment"
+msgstr ""
+
+#: ../includes/options.php:242
+msgid "PayPal Cancel URL"
+msgstr ""
+
+#: ../includes/options.php:243
+msgid "Choose the page where donors are redirected when they cancel transaction"
+msgstr ""
+
+#: ../includes/options.php:249
+msgid "PayPal Language"
+msgstr ""
+
+#: ../includes/options.php:250
+msgid "Please specify the language to use on PayPal"
+msgstr ""
+
+#: ../includes/options.php:285
+msgid "Donation Currency"
+msgstr ""
+
+#: ../includes/options.php:286
+msgid "It's the currency symbol used for donation"
+msgstr ""
+
+#: ../includes/options.php:291
+msgid "Donation Currency code"
+msgstr ""
+
+#: ../includes/options.php:292
+msgid "It's the currency code used for donation (USD, EUR or other)"
+msgstr ""
+
+#: ../includes/options.php:297
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: ../includes/options.php:298
+msgid "Please specify where you place currency symbol"
+msgstr ""
+
+#: ../includes/options.php:303
+msgid "Before currency"
+msgstr ""
+
+#: ../includes/options.php:307
+msgid "After currency"
+msgstr ""
+
+#: ../includes/options.php:325
+msgid "Please configure global emails parameters"
+msgstr ""
+
+#: ../includes/options.php:331
+msgid "Email From"
+msgstr ""
+
+#: ../includes/options.php:332
+msgid "Insert here the email used in emails sendings as sender"
+msgstr ""
+
+#: ../includes/options.php:338
+msgid "Please configure the email sent to the donor"
+msgstr ""
+
+#: ../includes/options.php:344
+msgid "Enable thank you email?"
+msgstr ""
+
+#: ../includes/options.php:345
+#, fuzzy
+msgid "Check if you want to send an email once a donation is completed."
+msgstr "Choose where you want to display the notification."
+
+#: ../includes/options.php:350
+msgid "Thank you email content"
+msgstr ""
+
+#: ../includes/options.php:351
+msgid "Please insert here the thank you email content that is sent when donation is completed.<br />Use this variables: <b>%FIRSTNAME%</b>, <b>%LASTNAME%</b>, <b>%DATE%</b> and <b>%AMOUNT%</b>"
+msgstr ""
+
+#: ../includes/options.php:358
+msgid "Please configure the email sent to you when a new donation is done"
+msgstr ""
+
+#: ../includes/options.php:363
+#, fuzzy
+msgid "Enable admin notification email?"
+msgstr "Admin Notification"
+
+#: ../includes/options.php:364
+msgid "Check if you want to receive an email once a donation is completed."
+msgstr ""
+
+#: ../includes/options.php:369
+#, fuzzy
+msgid "Admin notification email"
+msgstr "Admin Notification"
+
+#: ../includes/options.php:370
+msgid "Please insert here the admin notification email content that is sent to you when donation is completed.<br />Use this variables: <b>%FIRSTNAME%</b>, <b>%LASTNAME%</b>, <b>%DATE%</b> and <b>%AMOUNT%</b> (These are donor & donation data)"
+msgstr ""
+
+#: ../includes/shortcodes.php:173
+msgid "Hidden Amount Anonymous Donation "
+msgstr ""
+
+#: ../includes/shortcodes.php:175
+msgid "Anonymous Donation"
+msgstr ""
+
+#: ../includes/shortcodes.php:179
+#: ../includes/functions/ewd_export.php:22
+msgid "Hidden Amount"
+msgstr ""
+
+#: ../includes/shortcodes.php:190
+msgid "of global target"
+msgstr ""
+
+#: ../includes/shortcodes.php:195
+msgid "On"
+msgstr ""
+
+#: ../includes/shortcodes.php:234
+msgid "There is no donation for the moment."
+msgstr ""
+
+#: ../includes/functions/cpt_donation.php:48
+msgid "Donor Picture"
+msgstr ""
+
+#: ../includes/functions/cpt_donation.php:51
+msgid "Set donor picture"
+msgstr ""
+
+#: ../includes/functions/cpt_donation.php:54
+msgid "Use as donor picture"
+msgstr ""
+
+#: ../includes/functions/cpt_donation.php:57
+msgid "Remove donor picture"
+msgstr ""
+
+#: ../includes/functions/cpt_donation.php:118
+msgid "Projects"
+msgstr ""
+
+#: ../includes/functions/cpt_donation.php:119
+msgid "Project"
+msgstr ""
+
+#: ../includes/functions/cpt_donation.php:208
+msgid "No"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:10
+msgid "Donations Report"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:13
+msgid "Date"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:14
+#: ../includes/functions/ewd_functions.php:413
+#: ../includes/functions/metaboxes/donation_metaboxes.php:48
+msgid "Donor Name"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:15
+#: ../includes/functions/ewd_functions.php:187
+#: ../includes/functions/ewd_functions.php:188
+#: ../includes/functions/metaboxes/donation_metaboxes.php:179
+msgid "Email"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:16
+msgid "Phone"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:17
+#: ../includes/functions/ewd_functions.php:194
+#: ../includes/functions/ewd_functions.php:195
+#: ../includes/functions/metaboxes/donation_metaboxes.php:194
+msgid "Address"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:18
+#: ../includes/functions/ewd_functions.php:210
+#: ../includes/functions/metaboxes/donation_metaboxes.php:208
+msgid "Zipcode"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:19
+#: ../includes/functions/ewd_functions.php:201
+#: ../includes/functions/ewd_functions.php:202
+#: ../includes/functions/metaboxes/donation_metaboxes.php:201
+msgid "City"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:20
+#: ../includes/functions/metaboxes/donation_metaboxes.php:55
+msgid "Amount"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:21
+msgid "Anonymous"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:69
+#: ../includes/functions/ewd_export.php:74
+#: ../includes/functions/ewd_functions.php:338
+#: ../includes/functions/ewd_functions.php:343
+#: ../includes/functions/ewd_functions.php:418
+msgid "YES"
+msgstr ""
+
+#: ../includes/functions/ewd_export.php:71
+#: ../includes/functions/ewd_export.php:76
+#: ../includes/functions/ewd_functions.php:340
+#: ../includes/functions/ewd_functions.php:345
+#: ../includes/functions/ewd_functions.php:418
+msgid "NO"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:20
+msgid "Please enter your first name."
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:26
+msgid "Please enter your last name."
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:32
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:35
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:41
+#, fuzzy
+msgid "Please enter your donation amount."
+msgstr "Choose where you want to display the notification."
+
+#: ../includes/functions/ewd_functions.php:47
+msgid "Are you a robot ? 4 + 5 = ?"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:117
+msgid "Donation by [ enter donor name here ]"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:153
+msgid "Your donation amount"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:163
+msgid "Your Personal Information"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:168
+#: ../includes/functions/ewd_functions.php:169
+msgid "Firstname"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:173
+#: ../includes/functions/ewd_functions.php:174
+#: ../includes/functions/metaboxes/donation_metaboxes.php:187
+msgid "Phone Number"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:182
+#: ../includes/functions/ewd_functions.php:183
+msgid "Lastname"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:211
+msgid "Zip Code"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:217
+#, fuzzy
+msgid "Optional Message"
+msgstr "Options saved"
+
+#: ../includes/functions/ewd_functions.php:218
+msgid "Write an optional message here"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:218
+#, fuzzy
+msgid "Optional message"
+msgstr "Options saved"
+
+#: ../includes/functions/ewd_functions.php:231
+msgid "Choose the project to help"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:244
+msgid "Your Donation Information"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:247
+msgid "Weekly recurring payment"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:248
+msgid "Monthly recurring payment"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:249
+msgid "Yearly recurring payment"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:253
+msgid "Make an anonymous donation"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:257
+msgid "Hide donation amount in our donors public list"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:261
+msgid "Anti-spam: How much is 5+4?"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:271
+msgid "Submit donation"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:350
+msgid "Dear"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:382
+msgid "Donation by"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:409
+#: ../includes/functions/metaboxes/donation_metaboxes.php:10
+msgid "Donation Details"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:414
+msgid "Donor Email"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:415
+msgid "Donation Amount"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:416
+msgid "Hide Your Name?"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:417
+msgid "Hide Donation Amount?"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:418
+msgid "Recurring Payment"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:420
+msgid "Category"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:426
+msgid "Message"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:436
+msgid "Recurring Donation to"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:452
+#, fuzzy
+msgid "Donation to"
+msgstr "Save Options"
+
+#: ../includes/functions/ewd_functions.php:471
+msgid "Confirm and go to PayPal"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:495
+msgid "Weekly"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:498
+msgid "Monthly"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:501
+msgid "Yearly"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:575
+msgid "Custom Amount in"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:575
+msgid "Custom Amount"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:602
+msgid "No amount available"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:704
+msgid "Thank you for your donation"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:770
+msgid "You received a new donation"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:803
+msgid "Donor"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:905
+msgid "Help"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:1001
+#: ../includes/functions/ewd_functions.php:1020
+msgid "Select"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:1011
+msgid "Manage"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:1023
+#, fuzzy
+msgid "page"
+msgstr "All pages"
+
+#: ../includes/functions/ewd_functions.php:1024
+msgid "post"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:1042
+msgid "Choose Image"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:1043
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:1064
+#: ../includes/functions/ewd_functions.php:1070
+msgid "Delete"
+msgstr ""
+
+#: ../includes/functions/ewd_functions.php:1073
+msgid "Add"
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:21
+msgid "Donor Information"
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:49
+msgid "Choose the donor name."
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:56
+msgid "Indicate the donation amount (ex: 20) in "
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:61
+#, fuzzy
+msgid "Custom Message"
+msgstr "Error message ?"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:62
+msgid "Write optional information about the donation or leave blank."
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:67
+msgid "Hide donor name?"
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:68
+msgid "Check to hide the donor name, and display donation as anonymous."
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:73
+msgid "Hide donation amount?"
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:74
+msgid "Check to hide the donation amount."
+msgstr ""
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:214
+msgid "No extra information"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Choose if you want to display items thumbnail."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items price."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items rate."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items sales."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items author."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display item name."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Dashboard Metabox"
+#~ msgstr "Dashboard Only"
+
+#, fuzzy
+#~ msgid "Add Pointers"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid "Easy Admin Pointers"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid "Easy Admin Pointers Import / Export"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid "Import Options"
+#~ msgstr "Save Options"
+
+#, fuzzy
+#~ msgid "Activate Pointers"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid ""
+#~ "Choose if you want to display the close button. Will only work if NOT use "
+#~ "as tour."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Notification management"
+#~ msgstr "Notification page(s)"
+
+#~ msgid "<a href=\"%1$s\">Hide</a>"
+#~ msgstr "<a href=\"%1$s\">Hide</a>"
+
+#~ msgid "Check this box to enable the notification message."
+#~ msgstr "Check this box to enable the notification message."
+
+#~ msgid "Enter the message to display"
+#~ msgstr "Enter the message to display"
+
+#~ msgid ""
+#~ "Enter the text you want to display in the notification. HTML code "
+#~ "accepted."
+#~ msgstr ""
+#~ "Enter the text you want to display in the notification. HTML code "
+#~ "accepted."
+
+#~ msgid ""
+#~ "Check this box to display an error message. If uncheck, the message will "
+#~ "be display as an information."
+#~ msgstr ""
+#~ "Check this box to display an error message. If uncheck, the message will "
+#~ "be display as an information."
+
+#~ msgid "Display \"hide button\" ?"
+#~ msgstr "Display \"hide button\" ?"
+
+#~ msgid ""
+#~ "Check this box to display a \"hide button\" inside the notification box."
+#~ "<br />Each user will have the choice to hide or not the notification"
+#~ msgstr ""
+#~ "Check this box to display a \"hide button\" inside the notification box."
+#~ "<br />Each user will have the choice to hide or not the notification"
+
+#~ msgid "Notification page(s)"
+#~ msgstr "Notification page(s)"
+
+#~ msgid "Only display to Admins ?"
+#~ msgstr "Only display to Admins ?"
+
+#~ msgid "Check this box to display notice only to Admins"
+#~ msgstr "Check this box to display notice only to Admins"

@@ -1,0 +1,1705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Admin Notification\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-25 10:34+0100\n"
+"PO-Revision-Date: 2013-02-25 10:49+0100\n"
+"Last-Translator: remi\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../easy-wordpress-donation.php:89
+#: ../easy-wordpress-donation.php:134
+msgid "Easy Wordpress Donation Settings"
+msgstr "Paramètres de Easy WordPress Donation"
+
+#: ../easy-wordpress-donation.php:90
+msgid "Donations"
+msgstr "Dons"
+
+#: ../easy-wordpress-donation.php:98
+#: ../easy-wordpress-donation.php:99
+msgid "Export to CSV"
+msgstr "Exporter vers CSV"
+
+#: ../easy-wordpress-donation.php:142
+msgid "Options saved"
+msgstr "Paramètres enregistrés"
+
+#: ../easy-wordpress-donation.php:155
+msgid "Save Options"
+msgstr "Enregistrer les paramètres"
+
+#: ../easy-wordpress-donation.php:176
+msgid "Export Donations to CSV"
+msgstr "Exporter les dons vers CSV"
+
+#: ../easy-wordpress-donation.php:179
+msgid "You can download the donation list by clicking the button below. It will create a .CSV file with all informations."
+msgstr "Vous pouvez télécharger la liste des dons en cliquant sur le bouton ci-dessous. Un fichier .csv sera créé avec toutes les informations."
+
+#: ../easy-wordpress-donation.php:184
+msgid "Click to export"
+msgstr "Cliquez pour Exporter"
+
+#: ../includes/help.php:15
+#: ../includes/help.php:19
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../includes/help.php:16
+#: ../includes/help.php:25
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../includes/help.php:20
+msgid "To work properly the plugin needs to be configured. Please go to the settings page and fill in the form."
+msgstr "Pour fonctionner correctement le plugin doit être configuré. Rendez-vous sur la page des paramètres, puis remplissez le formulaire."
+
+#: ../includes/help.php:23
+#: ../includes/help.php:40
+msgid "top"
+msgstr "Haut de page"
+
+#: ../includes/help.php:27
+msgid "To display the donation form use this shortcode. You can place it in any page or post."
+msgstr "Pour afficher le formulaire de dons utilisez ce shortcode."
+
+#: ../includes/help.php:29
+msgid "To display the donations list use this shortcode. You can place it in any page or post."
+msgstr "Pour afficher la liste des dons utilisez ce shortcode."
+
+#: ../includes/help.php:31
+msgid "To display the donation targeted amount, use this shortcode."
+msgstr "Pour afficher la cible des dons utilisez ce shortcode"
+
+#: ../includes/help.php:31
+#: ../includes/help.php:33
+msgid "The format attribute is optional, do not use it to display a numeric value. Use it to display the money formatted value."
+msgstr "Le format est optionnel, ne l'utilisez pas pour inéser une valeur numérique. Utilisez le pour afficher un format monétaire."
+
+#: ../includes/help.php:33
+msgid "To display already collected funds, use this shortcode."
+msgstr "Pour afficher la totalité des dons déja collectés utilisez ce shortcode"
+
+#: ../includes/help.php:35
+msgid "To display the collected funds / target progress bar, use this shortcode."
+msgstr "Pour afficher la barre de progression des dons utilisez ce shortcode"
+
+#: ../includes/help.php:35
+msgid "Configure color, animation and stripes under Settings > Donation form tab."
+msgstr "Configurez la couleur, l'animation et les rayures dans Paramètres > Formulaire de dons"
+
+#: ../includes/help.php:37
+msgid "You do not have to set anything else!"
+msgstr "Vous n'avez rien d'autres à faire !"
+
+#: ../includes/options.php:15
+msgid "General"
+msgstr "Paramètres généraux"
+
+#: ../includes/options.php:19
+msgid "Donation Form"
+msgstr "Formulaire de don"
+
+#: ../includes/options.php:23
+msgid "Donations List"
+msgstr "Liste de dons"
+
+#: ../includes/options.php:27
+msgid "Paypal"
+msgstr "PayPal"
+
+#: ../includes/options.php:31
+msgid "Emails"
+msgstr "Emails"
+
+#: ../includes/options.php:49
+msgid "Please configure the main options below"
+msgstr "Merci de configurer les paramètres généraux ci-dessous"
+
+#: ../includes/options.php:55
+msgid "Donation slug"
+msgstr "Slug des dons"
+
+#: ../includes/options.php:56
+msgid "It's the slug used in urls donations, ex http://mysite.com/donation/donation_name"
+msgstr "C'est le slug utilisé dans les urls des dons, ex: http://monsite.com/dons/don_1"
+
+#: ../includes/options.php:61
+msgid "Enable Donations Target"
+msgstr "Activer un montant cible"
+
+#: ../includes/options.php:62
+msgid "Check this if you want to enable a donations amount target you want to reach"
+msgstr "Cochez cette case pour activer une limite de dons à atteindre"
+
+#: ../includes/options.php:67
+msgid "Donations Target"
+msgstr "Cible des dons"
+
+#: ../includes/options.php:68
+msgid "Please enter target amount to reach"
+msgstr "Indiquer un montant cible à atteindre"
+
+#: ../includes/options.php:73
+msgid "Donations Total Amount Display"
+msgstr "Affichage du montant total"
+
+#: ../includes/options.php:74
+msgid "Please indicate how you want to display the total donations amount"
+msgstr "Indiquez comment vous souhaitez afficher le montant total des dons"
+
+#: ../includes/options.php:79
+msgid "In value"
+msgstr "En valeur"
+
+#: ../includes/options.php:83
+msgid "In percent"
+msgstr "En pourcentage"
+
+#: ../includes/options.php:101
+msgid "Please configure the donation form options below"
+msgstr "Merci de configurer les paramètres du formulaire de dons ci-dessous"
+
+#: ../includes/options.php:107
+msgid "Amounts display"
+msgstr "Affichage des montants"
+
+#: ../includes/options.php:108
+msgid "Choose to display predefined amounts list, custom amount field or both"
+msgstr "Choisir d'afficher une liste de montants prédéfinis, ou un champs vierge ou les deux"
+
+#: ../includes/options.php:113
+msgid "Predefined amounts list"
+msgstr "Montant prédéfinis"
+
+#: ../includes/options.php:117
+msgid "Custom Amount Field"
+msgstr "Champs vierge"
+
+#: ../includes/options.php:121
+msgid "Both"
+msgstr "Les deux"
+
+#: ../includes/options.php:128
+msgid "Available Donation Amounts"
+msgstr "Montant des dons disponibles"
+
+#: ../includes/options.php:129
+msgid "Give a list of amounts that the potential donor can select (ex: 50). Disabled if Enable Custom Donation Amount is checked."
+msgstr "Indiquez ici la liste des montants que le donateur peut choisir."
+
+#: ../includes/options.php:134
+msgid "Send donation button text"
+msgstr "Bouton de validation"
+
+#: ../includes/options.php:135
+msgid "Enter submit donation button text"
+msgstr "Texte du bouton de validation"
+
+#: ../includes/options.php:140
+msgid "Confirmation Message"
+msgstr "Message de confirmation"
+
+#: ../includes/options.php:141
+msgid "This is the message donors will see before donation confirmation"
+msgstr "C'est le message que le donateur verra juste avant de valider son don"
+
+#: ../includes/options.php:146
+msgid "Progress Bar Color"
+msgstr "Couleur de la barre de progression"
+
+#: ../includes/options.php:147
+msgid "Please choose the progress bar color"
+msgstr "Merci de choisir une couleur"
+
+#: ../includes/options.php:152
+msgid "Enable progress bar stripes"
+msgstr "Activer la barre de progression"
+
+#: ../includes/options.php:153
+msgid "Choose to enable or disable stripes"
+msgstr "Choisir d'activer les rayures"
+
+#: ../includes/options.php:158
+msgid "Enable stripes animation"
+msgstr "Activer l'animation"
+
+#: ../includes/options.php:159
+msgid "Choose to enable or disable stripes animation"
+msgstr "Choisir d'aciver l'animation"
+
+#: ../includes/options.php:176
+msgid "Please configure the donations list options below"
+msgstr "Merci de configurer les paramètres de la liste des dons ci-dessous"
+
+#: ../includes/options.php:182
+msgid "Enable Donor Picture"
+msgstr "Activer la miniature du donateur"
+
+#: ../includes/options.php:183
+msgid "Check if you want to enable donor picture (only uploaded from admin)"
+msgstr "Cochez cette case si vous souhaitez activer une miniature pour le donateur (upload depuis l'admin uniquement)"
+
+#: ../includes/options.php:188
+msgid "Display Donation Percentage of Target"
+msgstr "Afficher la part du don en pourcentage de la cible"
+
+#: ../includes/options.php:189
+msgid "Check to display the donation part of total target"
+msgstr "Cochez cette case pour activer la part du don sur la cible totale"
+
+#: ../includes/options.php:206
+msgid "Please configure the PayPal options below"
+msgstr "Merci de configurer les paramètres PayPal ci-dessous"
+
+#: ../includes/options.php:211
+msgid "Logo"
+msgstr "Logo"
+
+#: ../includes/options.php:212
+msgid "Choose a logo to be displayed on PayPal page"
+msgstr "Choisir un logo a afficher sur la page PayPal"
+
+#: ../includes/options.php:217
+msgid "PayPal Account"
+msgstr "Compte PayPal"
+
+#: ../includes/options.php:218
+msgid "Please enter your PayPal account"
+msgstr "Indiquez ici votre identifiant PayPal"
+
+#: ../includes/options.php:223
+msgid "Enable PayPal Sandbox"
+msgstr "Activer la Sandbox PayPal"
+
+#: ../includes/options.php:224
+msgid "Check to activate PayPal Sandbox (test mode only)"
+msgstr "Cocher pour activer la Sandbox PayPal (mode test)"
+
+#: ../includes/options.php:229
+msgid "Enable PayPal IPN Notifier"
+msgstr "Activer la notification instannée PayPal"
+
+#: ../includes/options.php:230
+msgid "Check to receive IPN data by email (test mode)"
+msgstr "Cocher pour recevoir l'IPN PayPal par email (mode test)"
+
+#: ../includes/options.php:235
+msgid "PayPal Return URL"
+msgstr "URL de retour PayPal"
+
+#: ../includes/options.php:236
+msgid "Choose the page where donors are redirected after payment"
+msgstr "URL de la page de remerciement où sera redirigé le donateur après paiement"
+
+#: ../includes/options.php:242
+msgid "PayPal Cancel URL"
+msgstr "URL d'annulation PayPal"
+
+#: ../includes/options.php:243
+msgid "Choose the page where donors are redirected when they cancel transaction"
+msgstr "URL de la page de remerciement où sera redirigé le donateur après l'annulation du paiement"
+
+#: ../includes/options.php:249
+msgid "PayPal Language"
+msgstr "Langue de PayPal"
+
+#: ../includes/options.php:250
+msgid "Please specify the language to use on PayPal"
+msgstr "Choisir la langue de PayPal"
+
+#: ../includes/options.php:285
+msgid "Donation Currency"
+msgstr "Monnaie des dons"
+
+#: ../includes/options.php:286
+msgid "It's the currency symbol used for donation"
+msgstr "C'est le symbole de la monnaie utilisée pour les dons"
+
+#: ../includes/options.php:291
+msgid "Donation Currency code"
+msgstr "Code de la monnaie"
+
+#: ../includes/options.php:292
+msgid "It's the currency code used for donation (USD, EUR or other)"
+msgstr "C'est le code de la monnaie utilisée pour les dons (USD, EUR...)"
+
+#: ../includes/options.php:297
+msgid "Currency Symbol Position"
+msgstr "Emplacement du symbole de la monnaie"
+
+#: ../includes/options.php:298
+msgid "Please specify where you place currency symbol"
+msgstr "Indiquez où placer le symbole monétaire"
+
+#: ../includes/options.php:303
+msgid "Before currency"
+msgstr "Avant la valeur"
+
+#: ../includes/options.php:307
+msgid "After currency"
+msgstr "Après la valeur"
+
+#: ../includes/options.php:325
+msgid "Please configure global emails parameters"
+msgstr "Merci de configurer les paramètres des emails"
+
+#: ../includes/options.php:331
+msgid "Email From"
+msgstr "Email de l'expéditeur"
+
+#: ../includes/options.php:332
+msgid "Insert here the email used in emails sendings as sender"
+msgstr "Indiquez ici l'email à utilisée pour l'envoi des emails (l'expéditeur)"
+
+#: ../includes/options.php:338
+msgid "Please configure the email sent to the donor"
+msgstr "Merci de configurer l'email envoyé au donateur"
+
+#: ../includes/options.php:344
+msgid "Enable thank you email?"
+msgstr "Activer l'email de remerciement ?"
+
+#: ../includes/options.php:345
+msgid "Check if you want to send an email once a donation is completed."
+msgstr "Cochez cette case pour activer l'envoi d'un email de remerciement une fois le don effectué"
+
+#: ../includes/options.php:350
+msgid "Thank you email content"
+msgstr "Contenu de l'email de remerciement"
+
+#: ../includes/options.php:351
+msgid "Please insert here the thank you email content that is sent when donation is completed.<br />Use this variables: <b>%FIRSTNAME%</b>, <b>%LASTNAME%</b>, <b>%DATE%</b> and <b>%AMOUNT%</b>"
+msgstr "Indiquez ici le texte de l'email de remerciement qui sera envoyé une fois le paiement effectué.<br />Utilisezles variables suivantes: <b>%FIRSTNAME%</b>, <b>%LASTNAME%</b>, <b>%DATE%</b> et <b>%AMOUNT%</b>"
+
+#: ../includes/options.php:358
+msgid "Please configure the email sent to you when a new donation is done"
+msgstr "Merci de configurer les paramètres de l'email qui vous est envoyé apres un don"
+
+#: ../includes/options.php:363
+msgid "Enable admin notification email?"
+msgstr "Activer la notifiation email à l'admin?"
+
+#: ../includes/options.php:364
+msgid "Check if you want to receive an email once a donation is completed."
+msgstr "Cochez cette case pour activer l'envoi d'un email lors de la création d'un nouveau don"
+
+#: ../includes/options.php:369
+msgid "Admin notification email"
+msgstr "Adresse email de notification"
+
+#: ../includes/options.php:370
+msgid "Please insert here the admin notification email content that is sent to you when donation is completed.<br />Use this variables: <b>%FIRSTNAME%</b>, <b>%LASTNAME%</b>, <b>%DATE%</b> and <b>%AMOUNT%</b> (These are donor & donation data)"
+msgstr "Indiquez ici le texte de l'email de remerciement qui vous sera envoyé une fois le paiement effectué.<br />Utilisezles variables suivantes: <b>%FIRSTNAME%</b>, <b>%LASTNAME%</b>, <b>%DATE%</b> et <b>%AMOUNT%</b>"
+
+#: ../includes/shortcodes.php:173
+msgid "Hidden Amount Anonymous Donation "
+msgstr "Don Anonyme au Montant Masqué"
+
+#: ../includes/shortcodes.php:175
+msgid "Anonymous Donation"
+msgstr "Don Anonyme"
+
+#: ../includes/shortcodes.php:179
+#: ../includes/functions/ewd_export.php:22
+msgid "Hidden Amount"
+msgstr "Montant Masqué"
+
+#: ../includes/shortcodes.php:190
+msgid "of global target"
+msgstr "de la cible"
+
+#: ../includes/shortcodes.php:195
+msgid "On"
+msgstr "Sur"
+
+#: ../includes/shortcodes.php:234
+msgid "There is no donation for the moment."
+msgstr "Il n'y a aucun don pour le moment"
+
+#: ../includes/functions/cpt_donation.php:48
+msgid "Donor Picture"
+msgstr "Miniature du donateur"
+
+#: ../includes/functions/cpt_donation.php:51
+msgid "Set donor picture"
+msgstr "Choisir la miniature du donateur"
+
+#: ../includes/functions/cpt_donation.php:54
+msgid "Use as donor picture"
+msgstr "Utiliser comme miniature du donateur"
+
+#: ../includes/functions/cpt_donation.php:57
+msgid "Remove donor picture"
+msgstr "Supprimer la miniature du donateur"
+
+#: ../includes/functions/cpt_donation.php:118
+msgid "Projects"
+msgstr "Projets"
+
+#: ../includes/functions/cpt_donation.php:119
+msgid "Project"
+msgstr "Projet"
+
+#: ../includes/functions/cpt_donation.php:208
+msgid "No"
+msgstr "Aucun"
+
+#: ../includes/functions/ewd_export.php:10
+msgid "Donations Report"
+msgstr "Rapport des dons"
+
+#: ../includes/functions/ewd_export.php:13
+msgid "Date"
+msgstr "Date"
+
+#: ../includes/functions/ewd_export.php:14
+#: ../includes/functions/ewd_functions.php:413
+#: ../includes/functions/metaboxes/donation_metaboxes.php:48
+msgid "Donor Name"
+msgstr "Nom du donateur"
+
+#: ../includes/functions/ewd_export.php:15
+#: ../includes/functions/ewd_functions.php:187
+#: ../includes/functions/ewd_functions.php:188
+#: ../includes/functions/metaboxes/donation_metaboxes.php:178
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/functions/ewd_export.php:16
+msgid "Phone"
+msgstr "Téléphone"
+
+#: ../includes/functions/ewd_export.php:17
+#: ../includes/functions/ewd_functions.php:194
+#: ../includes/functions/ewd_functions.php:195
+#: ../includes/functions/metaboxes/donation_metaboxes.php:193
+msgid "Address"
+msgstr "Adresse"
+
+#: ../includes/functions/ewd_export.php:18
+#: ../includes/functions/ewd_functions.php:210
+#: ../includes/functions/metaboxes/donation_metaboxes.php:207
+msgid "Zipcode"
+msgstr "Code Postal"
+
+#: ../includes/functions/ewd_export.php:19
+#: ../includes/functions/ewd_functions.php:201
+#: ../includes/functions/ewd_functions.php:202
+#: ../includes/functions/metaboxes/donation_metaboxes.php:200
+msgid "City"
+msgstr "Ville"
+
+#: ../includes/functions/ewd_export.php:20
+#: ../includes/functions/metaboxes/donation_metaboxes.php:55
+msgid "Amount"
+msgstr "Montant"
+
+#: ../includes/functions/ewd_export.php:21
+msgid "Anonymous"
+msgstr "Don Anonyme"
+
+#: ../includes/functions/ewd_export.php:69
+#: ../includes/functions/ewd_export.php:74
+#: ../includes/functions/ewd_functions.php:338
+#: ../includes/functions/ewd_functions.php:343
+#: ../includes/functions/ewd_functions.php:418
+msgid "YES"
+msgstr "OUI"
+
+#: ../includes/functions/ewd_export.php:71
+#: ../includes/functions/ewd_export.php:76
+#: ../includes/functions/ewd_functions.php:340
+#: ../includes/functions/ewd_functions.php:345
+#: ../includes/functions/ewd_functions.php:418
+msgid "NO"
+msgstr "NON"
+
+#: ../includes/functions/ewd_functions.php:20
+msgid "Please enter your first name."
+msgstr "Indiquez votre prénom"
+
+#: ../includes/functions/ewd_functions.php:26
+msgid "Please enter your last name."
+msgstr "Indiquez votre nom"
+
+#: ../includes/functions/ewd_functions.php:32
+msgid "Please enter your email address."
+msgstr "Indiquez votre email"
+
+#: ../includes/functions/ewd_functions.php:35
+msgid "You entered an invalid email address."
+msgstr "Vous avez indiqué un email incorrect."
+
+#: ../includes/functions/ewd_functions.php:41
+msgid "Please enter your donation amount."
+msgstr "Indiquez le montant de votre don"
+
+#: ../includes/functions/ewd_functions.php:47
+msgid "Are you a robot ? 4 + 5 = ?"
+msgstr "Etes-vous un robot ? 4 + 5 = ?"
+
+#: ../includes/functions/ewd_functions.php:117
+msgid "Donation by [ enter donor name here ]"
+msgstr "Don par [ entre le nom du donateur ]"
+
+#: ../includes/functions/ewd_functions.php:153
+msgid "Your donation amount"
+msgstr "Montant de votre don"
+
+#: ../includes/functions/ewd_functions.php:163
+msgid "Your Personal Information"
+msgstr "Vos informations personnelle"
+
+#: ../includes/functions/ewd_functions.php:168
+#: ../includes/functions/ewd_functions.php:169
+msgid "Firstname"
+msgstr "Prénom"
+
+#: ../includes/functions/ewd_functions.php:173
+#: ../includes/functions/ewd_functions.php:174
+#: ../includes/functions/metaboxes/donation_metaboxes.php:186
+msgid "Phone Number"
+msgstr "Numéro de Téléphone"
+
+#: ../includes/functions/ewd_functions.php:182
+#: ../includes/functions/ewd_functions.php:183
+msgid "Lastname"
+msgstr "Prénom"
+
+#: ../includes/functions/ewd_functions.php:211
+msgid "Zip Code"
+msgstr "Code Postal"
+
+#: ../includes/functions/ewd_functions.php:217
+msgid "Optional Message"
+msgstr "Message optionnel"
+
+#: ../includes/functions/ewd_functions.php:218
+msgid "Write an optional message here"
+msgstr "Ecrire un message optionnel"
+
+#: ../includes/functions/ewd_functions.php:218
+msgid "Optional message"
+msgstr "Message Optionnel"
+
+#: ../includes/functions/ewd_functions.php:231
+msgid "Choose the project to help"
+msgstr "Choisir le projet à soutenir"
+
+#: ../includes/functions/ewd_functions.php:244
+msgid "Your Donation Information"
+msgstr "Votre don"
+
+#: ../includes/functions/ewd_functions.php:247
+msgid "Weekly recurring payment"
+msgstr "Paiement récurrent hebdomadaire"
+
+#: ../includes/functions/ewd_functions.php:248
+msgid "Monthly recurring payment"
+msgstr "Paiement récurrent mensuel"
+
+#: ../includes/functions/ewd_functions.php:249
+msgid "Yearly recurring payment"
+msgstr "Paiement récurrent annuel"
+
+#: ../includes/functions/ewd_functions.php:253
+msgid "Make an anonymous donation"
+msgstr "Effectuer un Don Anonyme"
+
+#: ../includes/functions/ewd_functions.php:257
+msgid "Hide donation amount in our donors public list"
+msgstr "Masquer le montant du don dans la liste publique"
+
+#: ../includes/functions/ewd_functions.php:261
+msgid "Anti-spam: How much is 5+4?"
+msgstr "Antispam: Combien font 4 + 5 ?"
+
+#: ../includes/functions/ewd_functions.php:271
+msgid "Submit donation"
+msgstr "Valider le don"
+
+#: ../includes/functions/ewd_functions.php:350
+msgid "Dear"
+msgstr "Cher(e)"
+
+#: ../includes/functions/ewd_functions.php:382
+msgid "Donation by"
+msgstr "Don de"
+
+#: ../includes/functions/ewd_functions.php:409
+#: ../includes/functions/metaboxes/donation_metaboxes.php:10
+msgid "Donation Details"
+msgstr "Détails du don"
+
+#: ../includes/functions/ewd_functions.php:414
+msgid "Donor Email"
+msgstr "Email du donateur"
+
+#: ../includes/functions/ewd_functions.php:415
+msgid "Donation Amount"
+msgstr "Montant du don"
+
+#: ../includes/functions/ewd_functions.php:416
+msgid "Hide Your Name?"
+msgstr "Masquer votre nom ?"
+
+#: ../includes/functions/ewd_functions.php:417
+msgid "Hide Donation Amount?"
+msgstr "Masquer le montant du don ?"
+
+#: ../includes/functions/ewd_functions.php:418
+msgid "Recurring Payment"
+msgstr "Paiement Récurrent"
+
+#: ../includes/functions/ewd_functions.php:420
+msgid "Category"
+msgstr "Categorie"
+
+#: ../includes/functions/ewd_functions.php:426
+msgid "Message"
+msgstr "Message"
+
+#: ../includes/functions/ewd_functions.php:436
+msgid "Recurring Donation to"
+msgstr "Don récurrent à"
+
+#: ../includes/functions/ewd_functions.php:452
+msgid "Donation to"
+msgstr "Don à"
+
+#: ../includes/functions/ewd_functions.php:471
+msgid "Confirm and go to PayPal"
+msgstr "Confirmer et payer avec PayPal"
+
+#: ../includes/functions/ewd_functions.php:495
+msgid "Weekly"
+msgstr "Hebdomadaire"
+
+#: ../includes/functions/ewd_functions.php:498
+msgid "Montly"
+msgstr "Mensuel"
+
+#: ../includes/functions/ewd_functions.php:501
+msgid "Yearly"
+msgstr "Annuel"
+
+#: ../includes/functions/ewd_functions.php:575
+msgid "Custom Amount in"
+msgstr "Montant personnalisé en"
+
+#: ../includes/functions/ewd_functions.php:575
+msgid "Custom Amount"
+msgstr "Montant personnalisé"
+
+#: ../includes/functions/ewd_functions.php:602
+msgid "No amount available"
+msgstr "Aucun montant disponible"
+
+#: ../includes/functions/ewd_functions.php:704
+msgid "Thank you for your donation"
+msgstr "Merci pour votre don"
+
+#: ../includes/functions/ewd_functions.php:770
+msgid "You received a new donation"
+msgstr "Vous avez recu un nouveau don"
+
+#: ../includes/functions/ewd_functions.php:803
+msgid "Donor"
+msgstr "Donateur"
+
+#: ../includes/functions/ewd_functions.php:905
+msgid "Help"
+msgstr "Aide"
+
+#: ../includes/functions/ewd_functions.php:1001
+#: ../includes/functions/ewd_functions.php:1020
+msgid "Select"
+msgstr "Choisir"
+
+#: ../includes/functions/ewd_functions.php:1011
+msgid "Manage"
+msgstr "Gérer"
+
+#: ../includes/functions/ewd_functions.php:1023
+msgid "page"
+msgstr "page"
+
+#: ../includes/functions/ewd_functions.php:1024
+msgid "post"
+msgstr "article"
+
+#: ../includes/functions/ewd_functions.php:1042
+msgid "Choose Image"
+msgstr "Choisir une image"
+
+#: ../includes/functions/ewd_functions.php:1043
+msgid "Remove Image"
+msgstr "Supprimer l'image"
+
+#: ../includes/functions/ewd_functions.php:1064
+#: ../includes/functions/ewd_functions.php:1070
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../includes/functions/ewd_functions.php:1073
+msgid "Add"
+msgstr "Ajouter"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:21
+msgid "Donor Information"
+msgstr "Information sur le donateur"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:49
+msgid "Choose the donor name."
+msgstr "Choisir le nom du donateur"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:56
+msgid "Indicate the donation amount (ex: 20) in "
+msgstr "Indiquer le montant du don en"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:61
+msgid "Custom Message"
+msgstr "Message personnalisé"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:62
+msgid "Write optional information about the donation or leave blank."
+msgstr "Inscrivez ici des informations supplémentaires facultatives sur le don ou laissez vide"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:67
+msgid "Hide donor name?"
+msgstr "Masquer le nom du donateur ?"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:68
+msgid "Check to hide the donor name, and display donation as anonymous."
+msgstr "Cochez pour masquer le nom du donateur"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:73
+msgid "Hide donation amount?"
+msgstr "Masquer le montant du don ?"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:74
+msgid "Check to hide the donation amount."
+msgstr "Cochez pour masquer le montant du don"
+
+#: ../includes/functions/metaboxes/donation_metaboxes.php:213
+#, fuzzy
+msgid "No extra information"
+msgstr "Information sur le don"
+
+#~ msgid "Donation Page URL"
+#~ msgstr "URL de la page de don"
+
+#, fuzzy
+#~ msgid ""
+#~ "It's the page url where the form is, ex http://mysite.com/donation/"
+#~ "donation_form. It's also the PayPal return URL."
+#~ msgstr ""
+#~ "C'est l'url de la page où se trouve le formulaire de don, ex: http://"
+#~ "monsite.com/formulaire_don"
+
+#~ msgid "Thank You Message"
+#~ msgstr "Message de Remerciement"
+
+#, fuzzy
+#~ msgid "Enable Custom Donation Amount"
+#~ msgstr "Montant des dons disponibles"
+
+#~ msgid "Donation form title"
+#~ msgstr "Titre du formulaire"
+
+#~ msgid "The donation form title"
+#~ msgstr "Indiquer un nom pour le formulaire de dons"
+
+#~ msgid "Donation form text"
+#~ msgstr "Texte du formulaire de dons"
+
+#~ msgid "The donation form text (placed juste above form)"
+#~ msgstr ""
+#~ "Texte d'explication du formulaire (placé juste au dessus du formulaire)"
+
+#~ msgid ""
+#~ "Please choose the progress bar color 1 (visible if target percentage "
+#~ "enable)"
+#~ msgstr "Merci de choisir une couleur."
+
+#~ msgid "Progress Bar Color 2"
+#~ msgstr "Couleur 2 de la barrede progression"
+
+#~ msgid "Progress Bar Border Color"
+#~ msgstr "Couleur de la bordure de la barre de progression"
+
+#~ msgid "Please choose the progress bar border color"
+#~ msgstr "Merci de choisir une couleur"
+
+#~ msgid "Check if you want to use test mode paypal sandbox system"
+#~ msgstr ""
+#~ "Cochez la case pour activer la sandbox PayPal, et utiliser le mode test"
+
+#~ msgid ""
+#~ "Check if you want to send an email when donation process is not completed."
+#~ msgstr ""
+#~ "Cochez cette case pour activer l'envoi d'un email de rappel si la "
+#~ "promesse de don n'est pas validée (deux jours après)"
+
+#~ msgid "Reminder email content"
+#~ msgstr "Contenu de l'email de rappel"
+
+#~ msgid ""
+#~ "Please insert here the thank you email content that is sent if donation "
+#~ "process is not completed.<br />Use this variables: <b>%FIRSTNAME%</b>, <b>"
+#~ "%LASTNAME%</b>, <b>%DATE%</b>, <b>%AMOUNT%</b> and <b>%URL%</b> (link to "
+#~ "donation validation form)"
+#~ msgstr ""
+#~ "Indiquez ici le texte de l'email de rappel envoyé deux jours après la "
+#~ "promesse de don. Utilisez les variables suivantes: <b>%FIRSTNAME%</b>, <b>"
+#~ "%LASTNAME%</b>, <b>%DATE%</b>, <b>%AMOUNT%</b> et <b>%URL%</b> (lien vers "
+#~ "la page de validation)"
+
+#~ msgid "Thank you!"
+#~ msgstr "Merci !"
+
+#~ msgid "Complete your Donation"
+#~ msgstr "Terminez votre promesse de don"
+
+#~ msgid ""
+#~ "You tried, or you were about, to make a donation but for some reason the "
+#~ "process is not completed. Please confirm your donation by clicking on the "
+#~ "button under your donation details."
+#~ msgstr ""
+#~ "Vous avez essayé, ou vous étiez sur le point, d'effectuer un don, mais "
+#~ "pour une raison inconnue, le processus n'est pas terminé. Merci de "
+#~ "cliquer sur le bouton qui se trouve sous le détails de votre don pour "
+#~ "terminer le processus."
+
+#~ msgid "We already reached %1$s of the %2$s  we need! You still can help us!"
+#~ msgstr ""
+#~ "Nous avons déja atteint %1$s des %2$s dont nous avons besoin ! Il est "
+#~ "encore temps de nous aider !"
+
+#~ msgid "Target reached at"
+#~ msgstr "Cible atteinte à"
+
+#~ msgid "Donation Amount in"
+#~ msgstr "Montant du don en"
+
+#~ msgid "Your Email"
+#~ msgstr "Votre email"
+
+#~ msgid "Anonymous Donation?"
+#~ msgstr "Don anonyme ?"
+
+#~ msgid "Check to hide your name"
+#~ msgstr "Cochez pour masquer votre nom"
+
+#~ msgid "Check to hide your donation amount"
+#~ msgstr "Cochez pour masquer le montant de votre don"
+
+#~ msgid "ERROR! You forgot to indicate your firstname!"
+#~ msgstr "ERREUR ! Vous n'avez pas indiqué votre prénom !"
+
+#~ msgid "ERROR! You forgot to indicate your lastname!"
+#~ msgstr "ERREUR ! Vous n'avez pas indiqué votre nom !"
+
+#~ msgid "ERROR! You forgot to indicate your email!"
+#~ msgstr "ERREUR ! Vous n'avez pas indiqué votre email !"
+
+#~ msgid "Donation Date"
+#~ msgstr "Date du don"
+
+#~ msgid "Donation Types"
+#~ msgstr "Types de dons"
+
+#~ msgid "Every two days"
+#~ msgstr "Tous les deux jours"
+
+#~ msgid "Hidden Donor?"
+#~ msgstr "Donateur Montant"
+
+#, fuzzy
+#~ msgid "Hidden Amount?"
+#~ msgstr "Montant Masqué"
+
+#~ msgid "Thank You Page"
+#~ msgstr "Page de remerciement"
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid ""
+#~ "To display the Envato items in  page or in a post, you have to use a "
+#~ "shortcode. This shortcode has some parameters."
+#~ msgstr ""
+#~ "Pour afficher les documents Envato dans une page ou dans un article, vous "
+#~ "devez insérer un shortcode. Ce shortcode possède quelques paramètres."
+
+#~ msgid ""
+#~ "To display a single item. Just replace the xxxxxx by the real envato item "
+#~ "ID."
+#~ msgstr ""
+#~ "Pour afficher un seul document, remplacez juste le xxxxxx par "
+#~ "l'identifiant réel du document."
+
+#~ msgid ""
+#~ "To display all items of a specific use, just replace the xxxxxx by the "
+#~ "real envato user ID, and do the same for the marketplace (ex: codecanyon, "
+#~ "themeforest)."
+#~ msgstr ""
+#~ "Pour afficher tous les documents d'un même utilisateur, remplacez juste "
+#~ "le xxxxxx par le nom réel de l'utilisateur, et faites de même pour le "
+#~ "champs marketplace (ex: codecanyon, themeforest)."
+
+#~ msgid ""
+#~ "Under Appearance > Widgets, you can add as many envato widget to display "
+#~ "single items in any sidebars of your site. The widget only requires the "
+#~ "item ID. "
+#~ msgstr ""
+#~ "Sous Apparence > Widgets, vous pouvez ajouter autant de widget que vous "
+#~ "le souhaitez pour afficher les document un par un dans n'importe qelle "
+#~ "barre latérale de votre site. Le widget ne recquiert que l'identifiant du "
+#~ "document."
+
+#~ msgid "Envatem - Easy Envato Items Settings"
+#~ msgstr "Envatem - Easy Envato Items Paramètres"
+
+#~ msgid "Envato Items"
+#~ msgstr "Documents Envato"
+
+#~ msgid "Envatem - Easy Envato Items"
+#~ msgstr "Envatem - Easy Envato Items"
+
+#~ msgid "Envato user ID"
+#~ msgstr "Identifiant Utilisateur Envato"
+
+#~ msgid "Your Envato user id (ex: Collin)."
+#~ msgstr "Votre identifiant Envato (ex: Collin)."
+
+#~ msgid "Envato API key"
+#~ msgstr "Clé d'API Envato"
+
+#~ msgid "Your Envato API Key."
+#~ msgstr "Votre clé d'API Envato."
+
+#~ msgid "Cache Configuration"
+#~ msgstr "Configuration du cache"
+
+#~ msgid "User Cache Timeout"
+#~ msgstr "Nettoyage du cache utilisateur"
+
+#~ msgid "Time between each user data refresh (in seconds, recommanded: 3600)."
+#~ msgstr ""
+#~ "Lapse de temps entre chaque rafraichissement des données (en secondes, "
+#~ "recommandé: 3600)."
+
+#~ msgid "Item Cache Timeout"
+#~ msgstr "Nettoyage du cache"
+
+#~ msgid "Time between each item data refresh (in seconds, recommanded: 3600)."
+#~ msgstr ""
+#~ "Lapse de temps entre chaque rafraichissement des données (en secondes, "
+#~ "recommandé: 3600)."
+
+#~ msgid "Hide item thumbnail"
+#~ msgstr "Masquer la miniature"
+
+#~ msgid "Choose if you want to display items thumbnail."
+#~ msgstr "Choisissez si vous souhaitez les miniatures."
+
+#~ msgid "Hide item price"
+#~ msgstr "Masquer le prix"
+
+#~ msgid "Choose if you want to display items price."
+#~ msgstr "Choisissez si vous souhaitez afficher les prix."
+
+#~ msgid "Hide item rate"
+#~ msgstr "Masquer la notation"
+
+#~ msgid "Choose if you want to display items rate."
+#~ msgstr "Choisissez si vous souhaitez afficher les notations."
+
+#~ msgid "Hide item sales"
+#~ msgstr "Masquer les ventes"
+
+#~ msgid "Choose if you want to display items sales."
+#~ msgstr "Choisissez si vous souhaitez afficher les ventes."
+
+#~ msgid "Hide item author"
+#~ msgstr "Masquer l'auteur"
+
+#~ msgid "Choose if you want to display items author."
+#~ msgstr "Choisissez si vous souhaitez afficher l'auteur."
+
+#~ msgid "Hide item upload date"
+#~ msgstr "Masquer la date d'upload"
+
+#~ msgid "Widget Display"
+#~ msgstr "Affichage du widget"
+
+#~ msgid "Choose if you want to display item name."
+#~ msgstr "Choisissez si vous souhaitez afficher le nom."
+
+#~ msgid "Dashboard Metabox"
+#~ msgstr "Tableau de Bord"
+
+#~ msgid "Hide the Envato data metabox"
+#~ msgstr "Masquer la boite d'information"
+
+#~ msgid "Uploaded on"
+#~ msgstr "Uploadé le"
+
+#~ msgid "by"
+#~ msgstr "par"
+
+#~ msgid "Total Sales"
+#~ msgstr "Ventes Totales"
+
+#~ msgid "Not rated yet"
+#~ msgstr "Aucune note"
+
+#~ msgid "Commission Rate:"
+#~ msgstr "Taux de commission:"
+
+#~ msgid "Status"
+#~ msgstr "Etat"
+
+#~ msgid "Earnings"
+#~ msgstr "Gains"
+
+#~ msgid "Balance"
+#~ msgstr "Balance"
+
+#~ msgid "Deposit"
+#~ msgstr "Dépôt"
+
+#~ msgid "Envato Single Item"
+#~ msgstr "Document Envato"
+
+#~ msgid "Widget Title"
+#~ msgstr "Titre du Widget"
+
+#~ msgid "Please insert the Envato item ID:"
+#~ msgstr "Indiquer un identifiant de document Envato:"
+
+#~ msgid "Add Pointers"
+#~ msgstr "Ajouter des Pointeurs"
+
+#~ msgid "How to add new pointers"
+#~ msgstr "Comment ajouter de nouveaux Pointeurs"
+
+#~ msgid ""
+#~ "Adding pointers is simple. What you have to do is to go to Admin pointers "
+#~ "page and simply fill in the form to create new pointer. There are a few "
+#~ "options that be used to configure each pointer."
+#~ msgstr ""
+#~ "L'ajout de pointeurs est simple. Tout ce que vous avez à faire c'est de "
+#~ "vous rendre sur la page \"Pointeurs Admin\" et de remplir le formulaire "
+#~ "pour ajouter un nouveau pointer. Vous pouvez aussi configurer les options "
+#~ "des pointeurs sur la page des options dédiée."
+
+#~ msgid "The name"
+#~ msgstr "Le nom"
+
+#~ msgid ""
+#~ "The name is also the title of the pointer, so be aware of that and write "
+#~ "a comprehensive title that fits the pointer maximal title lenght."
+#~ msgstr ""
+#~ "Le nom est aussi le titre du pointeur, alors soyez vigilant et écrivez un "
+#~ "titre compréhensible et dont la longueur n'excède pas la longueur "
+#~ "maximale du titre autorisé par WordPress."
+
+#~ msgid "The text"
+#~ msgstr "Le texte"
+
+#~ msgid ""
+#~ "The text is the content of the pointer, WordPress limits the number of "
+#~ "words, so be precise and concise."
+#~ msgstr ""
+#~ "Le texte est le contenu du pointeur, WordPress limite le nombre de mots, "
+#~ "alors soyez précis et concis."
+
+#~ msgid ""
+#~ "The assigned file is the file location where the pointer will be "
+#~ "displayed. It as to be written this way <code>name_file.php</code>. For "
+#~ "example in this url <code>wp-admin/options-general.php?page=eap-settings</"
+#~ "code>, the file is <code>options-general.php</code>."
+#~ msgstr ""
+#~ "Le fichier assigné est le fichier appellé par WordPress où sera affiché "
+#~ "le pointeur. Il doit être écrit de la manière suivante "
+#~ "<code>nom_du_fichier.php</code>. Par exemple dans l'url suivante <code>wp-"
+#~ "admin/options-general.php?page=eap-settings</code>, le fichier est "
+#~ "<code>options-general.php</code>."
+
+#~ msgid "The assigned page"
+#~ msgstr "La page assignée"
+
+#~ msgid ""
+#~ "Sometimes assigning a file is not enough, in this case you can specify a "
+#~ "page itself assigned to the file. For example in this url <code>wp-admin/"
+#~ "options-general.php?page=eap-settings</code>, the page is <code>eap-"
+#~ "settings</code>."
+#~ msgstr ""
+#~ "Parfois l'assignation d'un fichier n'est pas suffisante, dans ce cas vous "
+#~ "pouvez spécifier une page elle même rattachée au fichier. Par exemple "
+#~ "dans l'url suivante <code>wp-admin/options-general.php?page=eap-settings</"
+#~ "code>, la page est <code>eap-settings</code>."
+
+#~ msgid "The assigned ID"
+#~ msgstr "L'ID assigné"
+
+#~ msgid "The assigned ID is the div ID where you want the pointer to target."
+#~ msgstr ""
+#~ "L'ID assigné est le l'ID du calque sur lequel vous souhaitez faire "
+#~ "pointer le pointeur."
+
+#~ msgid ""
+#~ "If you want you can add a button inside the pointer, this field is the "
+#~ "button anchor text. Leave blank to disable the button."
+#~ msgstr ""
+#~ "Si vous le souhaitez vous pouvez ajouter un bouton au pointeur. Indiquez "
+#~ "le texte du champs ou laissez vide pour ne pas l'utiliser."
+
+#~ msgid "The button URL"
+#~ msgstr "L'URL du bouton"
+
+#~ msgid ""
+#~ "This is the URL of the button, leave blank to disable it. Note: the "
+#~ "button whill show only if the text and the URL are not empty."
+#~ msgstr ""
+#~ "Il s'agit de l'URL du bouton. Laissez vide pour ne pas l'utiliser. Note: "
+#~ "le bouton ne s'affichera que si le texte et l'URL du bouton ne sont pas "
+#~ "vides."
+
+#~ msgid "The next pointer ID"
+#~ msgstr "L'ID du pointeur suivant"
+
+#~ msgid ""
+#~ "The next pointer ID is used only if you check \"use as tour\" inside the "
+#~ "settings page. It is the next pointer to show when the user clicks on the "
+#~ "\"Continue Tour\" button."
+#~ msgstr ""
+#~ "L'ID du pointeur suivant est utilisé que si vous avez coché la case "
+#~ "\"utiliser comme visite\" sur la page de configuration. Il s'agit du "
+#~ "pointeur à afficher après avoir cliqué sur le bouton \"Continuer la visite"
+#~ "\"."
+
+#~ msgid "Using plugin as tour"
+#~ msgstr "Utiliser comme visite"
+
+#~ msgid ""
+#~ "You can choose to use pointers just for a few elements and pages, but you "
+#~ "can also use it as a tour plugin. In this case you will have to check the "
+#~ "\"use as tour\" checkbox inside the settings page. Here are the "
+#~ "specifications of the tour:"
+#~ msgstr ""
+#~ "Vous pouvez choisir d'utiliser les pointeurs au cas par cas pour quelques "
+#~ "pages ou quelques éléments, mais vous pouvez aussi utiliser le plugin "
+#~ "comme une visite virtuelle. Dans ce cas, cochez la case \"utiliser comme "
+#~ "visite\". Voic les spécifications de la visite:"
+
+#~ msgid "Check the \"use as tour\" checkbox"
+#~ msgstr "Cochez la case \"Utiliser comme visite\""
+
+#~ msgid "Fill the \"Next pointer ID\" for each pointer"
+#~ msgstr ""
+#~ "Remplissez le champs \"ID du pointeur suivant\" pour chaque pointeur"
+
+#~ msgid "And that's it!"
+#~ msgstr "Et c'est tout !"
+
+#~ msgid ""
+#~ "But please note that in the case of using the plugin as tour, the pointer "
+#~ "button will not show, and will be replaced by the continue tour button."
+#~ msgstr ""
+#~ "Attention, prenez note que dans le cas d'une utilisation en tant que "
+#~ "visite, le bouton du pointeur, s'il est activé, ne sera affiché, et "
+#~ "remplacé par le bouton \"Continuer la visite\"."
+
+#~ msgid ""
+#~ "You can configure the pointers options in the settings page. You can "
+#~ "choose to activate the use of pointers, customize titles format, text "
+#~ "color, arrow location and display or not the hide button."
+#~ msgstr ""
+#~ "Vous pouvez configuré les options des pointeurs dans la page "
+#~ "configuration. Vous choisir d'activer ou non les pointeurs, modifier les "
+#~ "formats des titres, la couleur des textes, l'emplacement de la flèche du "
+#~ "pointeur, et d'afficher ou masquer les bouton \"Fermer\"."
+
+#~ msgid "Easy Admin Pointers"
+#~ msgstr "Easy Admin Pointers"
+
+#~ msgid "Admin Pointers"
+#~ msgstr "Pointeurs Admin"
+
+#~ msgid "Easy Admin Pointers Import / Export"
+#~ msgstr "Easy Admin Pointers - Import / Export"
+
+#~ msgid "EAP Import / Export"
+#~ msgstr "EAP Import / Export"
+
+#~ msgid "Pointer successfully updated!"
+#~ msgstr "Pointer mis à jour avec succès !"
+
+#~ msgid "Pointer successfully added!"
+#~ msgstr "Pointer créé avec succès !"
+
+#~ msgid "Pointer successfully deleted!"
+#~ msgstr "Pointer supprimé avec succès !"
+
+#~ msgid "Easy Admin Pointers - Import / Export"
+#~ msgstr "Easy Admin Pointers - Import / Export"
+
+#~ msgid "Settings imported successfully!"
+#~ msgstr "Options importées avec succès !"
+
+#~ msgid ""
+#~ "Here you can import and export Easy Admin Pointers settings from one "
+#~ "installation to another."
+#~ msgstr ""
+#~ "Vous pouvez ici importer et exporter les paramètres du plugin Easy Admin "
+#~ "Pointers d'un installation à une autre."
+
+#~ msgid "Import Options"
+#~ msgstr "Importer les Options"
+
+#~ msgid ""
+#~ "Paste the encoded text from export options field from your development "
+#~ "site or another installation."
+#~ msgstr ""
+#~ "Collez le code crypté suivant dans une autre installation de WordPress."
+
+#~ msgid "Import"
+#~ msgstr "Importer"
+
+#~ msgid "Are you sure you want to import the settings?"
+#~ msgstr "Etes-vous sur de vouloir importer les paramètres ?"
+
+#~ msgid "Copy this text to import settings into another installation."
+#~ msgstr ""
+#~ "Copiez ce code pour importer les paramètres dans une autre installation."
+
+#~ msgid "Activate Pointers"
+#~ msgstr "Activer les Pointeurs"
+
+#~ msgid "Use plugin as Tour"
+#~ msgstr "Utiliser comme visite"
+
+#~ msgid ""
+#~ "If you check this option, the plugin will show pointer once by one, and "
+#~ "you will have to indicate pointers order and targets."
+#~ msgstr ""
+#~ "En cochant cette option le plugin affichera les pointeurs un par un dans "
+#~ "l'ordre. Vous aurez aussi à remplir les ID des pointeurs suivants."
+
+#~ msgid "Choose the style of pointers titles (recommended: h3)."
+#~ msgstr "Choisissez les styles des titres des pointeurs (recommandé h3)."
+
+#~ msgid "Arrow Location"
+#~ msgstr "Emplacement de la flèche"
+
+#~ msgid "Choose the arrow location (recommended: top)."
+#~ msgstr "Choisissez l'emplacement de la flèche (recommandé haut)."
+
+#~ msgid "Text Color"
+#~ msgstr "Couleur du texte"
+
+#~ msgid "Choose the main text color (recommended: 000)."
+#~ msgstr "Choisissez la couleur des textes (recommandé 000)."
+
+#~ msgid ""
+#~ "Choose if you want to display the close button. Will only work if NOT use "
+#~ "as tour."
+#~ msgstr ""
+#~ "Choisissez si vous souhaitez afficher le bouton \"Fermer\". Ne sera pris "
+#~ "en compte que si le plugin n'est PAS utilisé comme visite."
+
+#~ msgid "Are you sure you want to delete this pointer?"
+#~ msgstr "Etes-vous sur de vouloir supprimer ce pointeur ?"
+
+#~ msgid "Continue Tour"
+#~ msgstr "Continuer la visite"
+
+#~ msgid "Active Pointers"
+#~ msgstr "Pointers actifs"
+
+#~ msgid "Order"
+#~ msgstr "Ordre"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Text"
+#~ msgstr "Contenu"
+
+#~ msgid "Assigned File"
+#~ msgstr "Fichier assigné"
+
+#~ msgid "Assigned Page"
+#~ msgstr "Page assignée"
+
+#~ msgid "Assigned ID"
+#~ msgstr "ID assigné"
+
+#~ msgid "Actions"
+#~ msgstr "Actions"
+
+#~ msgid "Edit"
+#~ msgstr "Editer"
+
+#~ msgid "Add New Pointer"
+#~ msgstr "Ajouter un pointer"
+
+#~ msgid "The name of the pointer."
+#~ msgstr "Nom du pointer."
+
+#~ msgid "Pointer text"
+#~ msgstr "Contenu du pointer."
+
+#~ msgid "The content of the pointer (can content HTML code)."
+#~ msgstr "Le contenu du pointer peut contenir du HTML."
+
+#~ msgid "Indicates what file the pointer is assigned to (ex: edit.php)."
+#~ msgstr "Indique a quel fichier est assigné le pointer, ex: edit.php."
+
+#~ msgid ""
+#~ "Indicates what page the pointer is assigned to (ex: themes.php?"
+#~ "page=<b>eap-pointers</b>)."
+#~ msgstr ""
+#~ "Indique à quelle page le pointeur est assigné, ex: themes.php?page=<b>eap-"
+#~ "pointers</b>"
+
+#~ msgid "Indicates what div the pointer is assigned to."
+#~ msgstr "Indique à quel ID le pointeur est assigné."
+
+#~ msgid "Button Text"
+#~ msgstr "Texte du bouton"
+
+#~ msgid "Insert the button text or leave blank."
+#~ msgstr "Indiquez le texte du bouon ou laissez vide."
+
+#~ msgid "Button URL"
+#~ msgstr "URL du bouton"
+
+#~ msgid "Insert the button URL or leave blank."
+#~ msgstr "Indiquez l'URL du bouton ou laissez vide."
+
+#~ msgid "Next Pointer ID"
+#~ msgstr "ID du pointeur suivant"
+
+#~ msgid ""
+#~ "Insert the next pointer ID. Will only work if you check the \"use as tour"
+#~ "\" option."
+#~ msgstr ""
+#~ "Indiquez l'ID du pointeur suivant. Ne sera pris en compte que si l'option "
+#~ "\"Utiliser comme visite\" est cochée dans les options."
+
+#~ msgid "Add a New Pointer"
+#~ msgstr "Ajouter un Nouveau Pointer"
+
+#~ msgid "Edit Pointer:"
+#~ msgstr "Editer le pointer:"
+
+#~ msgid "Indicates what file the pointer is assigned to (ex: edit.php)"
+#~ msgstr "Indique à quel fichier le pointer est assigné, ex: edit.php"
+
+#~ msgid "Update Pointer"
+#~ msgstr "Mettre à jour le pointer"
+
+#~ msgid "Add Fields"
+#~ msgstr "Ajouter des champs"
+
+#~ msgid "Retrieve Fields Data"
+#~ msgstr "Récupérer les valeurs des champs"
+
+#~ msgid "Customs Functions"
+#~ msgstr "Fonctions personnalisées"
+
+#, fuzzy
+#~ msgid ""
+#~ "Adding tabs is simple. What you have to do is to edit the includes/"
+#~ "options.php file in the plugin directory. Adding a tab and adding a field "
+#~ "is a bit different. You have to actions to do when you create a tab. "
+#~ "First of all you have to add data in the <code>$eap_custom_tabs</code> "
+#~ "var, and then, in the <code>$eap_custom_meta_fields</code> you have to "
+#~ "call the Tab starting element and to close this element. Here is an "
+#~ "example:"
+#~ msgstr ""
+#~ "L'ajout d'onglets est simple. Tout ce que vous avez à faire c'est "
+#~ "d'éditer le fichier includes/options.php dans le répertoire du plugin. "
+#~ "Ajouter un onglet et ajouter un champ est un peu différent. Vous avez "
+#~ "deux actions à faire lorsque vous créez un onglet. Tout d'abord, vous "
+#~ "devez ajouter des données dans la variable <code>$eto_custom_tabs</code>, "
+#~ "et ensuite, dans la variable <code>$eto_custom_meta_fields</code>, vous "
+#~ "devez appeler l'ouverture et la fermeture de l'onglet. Voici un exemple:"
+
+#~ msgid "Create the tabs"
+#~ msgstr "Créer des onglets"
+
+#~ msgid "Wrap fields into a tab"
+#~ msgstr "Encapsuler des champs dans un onglet"
+
+#~ msgid "Your fields here"
+#~ msgstr "Ajouter vos champs ici"
+
+#~ msgid ""
+#~ "If this seems to be too complicated for you, please just take a look at "
+#~ "the options.php file included to have a demo of how to fill in the file."
+#~ msgstr ""
+#~ "Si cela vous parait trop compliqué, jetez un oeil au fichier options.php "
+#~ "inclus dans le plugin pour avoir un aperçu sur la manière de le remplir."
+
+#~ msgid "How to create custom fields"
+#~ msgstr "Comment créer des champs personnalisés"
+
+#~ msgid ""
+#~ "Creating fields is easy! All you have to do id to edit the includes/"
+#~ "options.php file in the plugin directory and create as many tabs and "
+#~ "fields as you need!"
+#~ msgstr ""
+#~ "La création de champs personnalisés est facile ! Tout ce que vous à faire "
+#~ "c'est d'éditer le fichier includes/options.php dans le répertoire du "
+#~ "plugin et de créer autant d'onglets et de champs que vous le souhaitez !"
+
+#~ msgid "Add a Text input field"
+#~ msgstr "Ajouter un Champs Texte Simple"
+
+#~ msgid "Add a Password input field"
+#~ msgstr "Ajouter un champs Mot de Passe"
+
+#~ msgid "Add a Textarea field"
+#~ msgstr "Ajouter une Zone de Texte"
+
+#~ msgid "Add a Checkbox field"
+#~ msgstr "Ajouter une Case à Cocher"
+
+#~ msgid "Add a Select Box"
+#~ msgstr "Ajouter une Liste Déroulante"
+
+#~ msgid ""
+#~ "Here you have to add options to the field. Each option has a label and a "
+#~ "value."
+#~ msgstr ""
+#~ "Ici vous devez ajouter les options du champs. Chaque option doit avoir un "
+#~ "lable et une valeur."
+
+#~ msgid "Add a Radio Group"
+#~ msgstr "Ajouter des Boutons Radio"
+
+#~ msgid "Add a Ckeckbox Group"
+#~ msgstr "Ajouter une Groupe de Cases à Cocher"
+
+#~ msgid "Add a Taxonomy list"
+#~ msgstr "Ajouter une Liste de Taxonomies"
+
+#~ msgid "Here you can define the post types you want to list."
+#~ msgstr "Ici vous pouvez définir le type de \"custom post type\" à lister."
+
+#~ msgid "Add a Repeatable Field"
+#~ msgstr "Ajouter un Champs Multiple"
+
+#~ msgid "Add a Date Field"
+#~ msgstr "Ajouter un Champs Date"
+
+#~ msgid "Add a Image Upload Field"
+#~ msgstr "Ajouter un Champs d'Upload d'Image"
+
+#~ msgid "Add a Slider Field"
+#~ msgstr "Ajouter un Slider"
+
+#~ msgid "Here think to modify the min, max and step values to fit your needs."
+#~ msgstr "Ici pensez à modifier les valeur min, max et step pour vos besoins."
+
+#~ msgid "Add a Color Picker Field"
+#~ msgstr "Ajouter un Color Picker"
+
+#~ msgid "How to retrieve the data fields"
+#~ msgstr "Comment récupérer les données des champs"
+
+#~ msgid ""
+#~ "There are two ways to retrieve the data, one with a function, and the "
+#~ "second one using a global variable. The first method use a little more "
+#~ "queries, but is easier to set up. Some field types provide pre-made "
+#~ "functions to display the content, for these functions, have a look below."
+#~ msgstr ""
+#~ "Il y a deux manières de récupérer la valeur des champs. La première en "
+#~ "utilisant une fonction, la seconde en utilisant une variable globale. La "
+#~ "première méthode est légèrement plus gourmande en ressource mais est plus "
+#~ "simple à mettre en place. Certains types de champs bénéficient de "
+#~ "fonctions déja construites qui simplifient l'affichage des données de ces "
+#~ "champs (voir plus bas)."
+
+#~ msgid "First Method: using a function"
+#~ msgstr "Prmière Méthode: utilisation d'une fonction"
+
+#~ msgid ""
+#~ "To display a field data using a function, use this function call and echo "
+#~ "it:"
+#~ msgstr ""
+#~ "Pour afficher la valeur d'un champ via une fonctione utiliser le code ci-"
+#~ "dessous puis faites en un \"echo\":"
+
+#~ msgid ""
+#~ "Where you replace <code>var</code> by the id of the field you want to "
+#~ "echo."
+#~ msgstr ""
+#~ "Où vous devez remplacer <code>var</code> par l'id du champ que vous "
+#~ "souhaitez afficher."
+
+#~ msgid "Second Method: using a global variable"
+#~ msgstr "Seconde Méthode: utilisation d'une variable globale"
+
+#~ msgid ""
+#~ "The first thing to do is to insert this lines of code in your header.php "
+#~ "file inside your template directory"
+#~ msgstr ""
+#~ "La première chose à faire dans cette méthode est de copier ces quelques "
+#~ "lignes de codes dans votre header.php qui se trouve dans le répertoire de "
+#~ "votre thème"
+
+#~ msgid ""
+#~ "You really need to add these lines, above the wp_head() function, "
+#~ "otherwise the data will not be available in your theme."
+#~ msgstr ""
+#~ "Vous devez absolument coller ces lignes au dessus de wp_head(), sinon les "
+#~ "données de vos champs ne seront pas disponibles dans votre thème."
+
+#~ msgid ""
+#~ "Retrieving the data fields is then pretty simple. The main way to do it "
+#~ "is to echo a variable:"
+#~ msgstr ""
+#~ "La récupération de données pronevant des champs est simple. La principale "
+#~ "manière est de faire un echo de la variable:"
+
+#~ msgid ""
+#~ "For example if you your field has the id \"slogan\", to echo it, use this "
+#~ "code:"
+#~ msgstr ""
+#~ "Par exemple si votre champs à un ID \"slogan\", piur l'afficher utiliser "
+#~ "ce code:"
+
+#~ msgid ""
+#~ "For some kind of field types, there are some pre-made functions already "
+#~ "created to help you display the content of the field."
+#~ msgstr ""
+#~ "Pour certains types de champs de donnée, il existe des fonctions déja "
+#~ "prêtes à l'emploi pour afficher ou récupérer du contenu."
+
+#~ msgid "Image: display an image"
+#~ msgstr "Image: Afficher une image"
+
+#~ msgid ""
+#~ "This function echo an image and add an option to modify the width and the "
+#~ "height. Replace the <i>$field_id</i> by the call to the needed variable. "
+#~ "For example, if you field id is \"logo\", the function call is:"
+#~ msgstr ""
+#~ "Cette fonction affiche une image et vous permet de modifier la hauteur et "
+#~ "la largeur de celle-ci. Remplacez <i>$field_id</i> par l'ID de la "
+#~ "variable à afficher. Par exemple, si votre champs à l'ID \"logo\", "
+#~ "l'appel de la fonction sera:"
+
+#~ msgid "Image: get image url without displaying it"
+#~ msgstr "Image: récupérer l'URL de l'image sans l'afficher"
+
+#~ msgid ""
+#~ "This function retrieve the image url without printing anything. Replace "
+#~ "the <i>$field_id</i> by the call to the needed variable. For example, if "
+#~ "you field id is \"logo\", the function call can be (inside an img tag):"
+#~ msgstr ""
+#~ "Cette fonction permet de récupérer l'URL de l'image sans l'afficher. "
+#~ "Remplacez <i>$field_id</i> par l'ID de la variable à afficher. Par "
+#~ "exemple si votre champs à l'ID \"logo\", l'appel de la fonction pourrait "
+#~ "être (dans un tag img):"
+
+#~ msgid ""
+#~ "There are some shortcodes that you can use directly in the content of "
+#~ "your pages, or posts, to display the content of the custom theme fields. "
+#~ "The main one, is:"
+#~ msgstr ""
+#~ "Il existe des shortcodes que vous pouvez utilisez directement dans le "
+#~ "contenu de vos pages ou de vos articles pour afficher le contenu de vos "
+#~ "champs personnalisés, le principal shortcode est:"
+
+#~ msgid ""
+#~ "Where you replace <code>field_id</code> by the id of the field you want "
+#~ "to display."
+#~ msgstr ""
+#~ "Où vous devez remplacer <code>var</code> par l'id du champ que vous "
+#~ "souhaitez afficher."
+
+#~ msgid ""
+#~ "Where you replace <code>field_id</code> by the id of the image field you "
+#~ "want to display."
+#~ msgstr ""
+#~ "Où vous devez remplacer <code>var</code> par l'id du champ que vous "
+#~ "souhaitez afficher."
+
+#~ msgid "Advanced"
+#~ msgstr "Paramètres avancés"
+
+#~ msgid "Notification management"
+#~ msgstr "Gérer les notifications"
+
+#~ msgid "<a href=\"%1$s\">Hide</a>"
+#~ msgstr "<a href=\"%1$s\">Masquer</a>"
+
+#~ msgid ""
+#~ "Ooop! You activated a notification but you haven't defined any message!"
+#~ msgstr ""
+#~ "Oups ! Vous avez activé une notification mais vous n'avez indiqué aucun "
+#~ "message !"
+
+#~ msgid "Check this box to enable the notification message."
+#~ msgstr "Cochez cette case pour activer l'affichage de la notification."
+
+#~ msgid "Enter the message to display"
+#~ msgstr "Entrer le message à afficher"
+
+#~ msgid ""
+#~ "Enter the text you want to display in the notification. HTML code "
+#~ "accepted."
+#~ msgstr ""
+#~ "Entrer le texte que souhaitez afficher dans la notification. Code HTML "
+#~ "accepté."
+
+#~ msgid "To create links use simple quotes."
+#~ msgstr ""
+#~ "Pour créer des liens utilisez des simples quotes (pas de guillemets)."
+
+#~ msgid "Error message ?"
+#~ msgstr "Message d'erreur ?"
+
+#~ msgid ""
+#~ "Check this box to display an error message. If uncheck, the message will "
+#~ "be display as an information."
+#~ msgstr ""
+#~ "Cochez cette case pour afficher un message d'erreur. Si cette case est "
+#~ "décochée, le message affiché sera une information."
+
+#~ msgid "Display \"hide button\" ?"
+#~ msgstr "Afficher le bouton \"masquer\" ?"
+
+#~ msgid ""
+#~ "Check this box to display a \"hide button\" inside the notification box."
+#~ "<br />Each user will have the choice to hide or not the notification"
+#~ msgstr ""
+#~ "Cochez cette case si vous souhaitez afficher le bouton \"masquer\" dans "
+#~ "la notification.<br />Chaque utilisateur aura le choix de masquer la "
+#~ "notification de manière individuelle."
+
+#~ msgid "Notification page(s)"
+#~ msgstr "Pages d'affichage"
+
+#~ msgid "Only display to Admins ?"
+#~ msgstr "N'afficher qu'aux administrateurs ?"
+
+#~ msgid "Check this box to display notice only to Admins"
+#~ msgstr "Cochez cette case pour n'afficher qu'aux administrateurs"
