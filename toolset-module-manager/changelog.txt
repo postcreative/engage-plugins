@@ -1,7 +1,0 @@
-Wordpress Plugin: 
-Module Manager, by OnTheGoSystems
-
-Changelog:
-
-1.0
-* Initial release
