@@ -62,10 +62,8 @@ jQuery(document).ready( function($)
 	
 	<h4><?php _e( "Need some help?" ); ?></h4>
 	<p>Check out the help instructions by clicking the <strong style="color:#ff42c4";>Help Button</strong> in the top right-hand corner of the screen.  You will find this on every admin page.</p>
-		<p><a class="button button-primary button-hero load-customize hide-if-no-customize" href="http://your-website.com"><?php _e( 'Email support' ); ?></a></p>
-		
-		
-		<p><?php printf( '<a href="%s" class="welcome-icon welcome-learn-more">' . __( 'Learn more about getting started' ) . '</a>', __( 'http://engage-online.com/first_steps_with_engage' ) ); ?></p>
+		<p><a class="button button-primary button-hero load-customize hide-if-no-customize" href="mailto:support@engage-online.com"><?php _e( 'Email support' ); ?></a></p>
+	
 
 	</div>
 	</div>
